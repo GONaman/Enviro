@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "670086350249",
+    "firebase_url": "https://enviro-hk108.firebaseio.com",
+    "project_id": "enviro-hk108",
+    "storage_bucket": "enviro-hk108.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670086350249:android:100bcb91326786e2cdf0b8",
+        "android_client_info": {
+          "package_name": "com.mnnit.hk.enviro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670086350249-d8ruksgll6cvg7bimirq2ti34689cbl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmh3e-cDLMDRboYqGwGONHT90gUh_79II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670086350249-d8ruksgll6cvg7bimirq2ti34689cbl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
